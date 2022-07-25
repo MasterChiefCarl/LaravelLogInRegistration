@@ -1,7 +1,7 @@
 # Laravel Login and Registration Controller
 
 ![](https://c.tenor.com/pINspSRcLukAAAAC/klee-genshin.gif)
-POV: Me rushing this project from scratch AHHHHHHHHHHHHHHHHHHH
+### POV: Me rushing this project from scratch AHHHHHHHHHHHHHHHHHHH
 
 ## Welcome to My PHP - Laravel Project
 
